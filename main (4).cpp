@@ -22,6 +22,7 @@ int main()
     int o;
     int p;
     int q;
+    int r;
     int x;
     int type;
     int sum;
